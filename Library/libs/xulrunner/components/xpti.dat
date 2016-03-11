@@ -2,13 +2,13 @@
 
 [Header,2]
 0,Version,2,0
-1,AppDir,C:\xulrunner
+1,AppDir,C:\Users\MyPC\Desktop\Render_Web_Application\projectA1\Library\libs\xulrunner
 
 [Directories,4]
-0,C:\xulrunner\components
+0,C:\Users\MyPC\Desktop\Render_Web_Application\projectA1\Library\libs\xulrunner\components
 1,C:\Program Files (x86)\Foxit Software\Foxit Reader\plugins
 2,C:\Users\MyPC\AppData\Roaming\Mozilla\plugins
-3,C:\xulrunner\plugins
+3,C:\Users\MyPC\Desktop\Render_Web_Application\projectA1\Library\libs\xulrunner\plugins
 
 [Files,131]
 0,dom_svg.xpt,0,23446,1249124054000
